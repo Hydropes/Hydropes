@@ -8,3 +8,5 @@
 
 🏅 You can also look at my part in project [pose analysis in sports](https://github.com/fitagdinov/Hockey_analysis/tree/feat_check_phases).
 
+:penguin: [Kaggle link](https://www.kaggle.com/hydropes)
+
