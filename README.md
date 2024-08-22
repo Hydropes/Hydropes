@@ -10,5 +10,5 @@
 
 :penguin: [Kaggle link](https://www.kaggle.com/hydropes)
 
-[![codewars](https://www.codewars.com/users/iiifd2u%20/badges/small)](https://www.codewars.com/users/iiifd2u%20)
+[![codewars](https://www.codewars.com/users/iiifd2u%20/badges/large)](https://www.codewars.com/users/iiifd2u%20)
 
