@@ -8,7 +8,9 @@
 
 🏅 You can also look at my part in project [pose analysis in sports](https://github.com/fitagdinov/Hockey_analysis/tree/feat_check_phases).
 
-:penguin: [Kaggle link](https://www.kaggle.com/hydropes)
+:penguin: [**Kaggle**](https://www.kaggle.com/hydropes)
+
+:waxing_crescent_moon: [**LeetCode**](https://leetcode.com/u/iiifd2u/)
 
 [![codewars](https://www.codewars.com/users/iiifd2u%20/badges/large)](https://www.codewars.com/users/iiifd2u%20)
 
