@@ -2,9 +2,9 @@
 
 🏭 I'm currently working on deep learning direction and also on development of machine postprocessors
 
-🔬 I also study at Moscow Institute of Physics and Technology courses (maths, python, kotlin, etc...)
+🔬 I was graduated from Moscow Institute of Physics and Technology courses (maths, python, kotlin, etc...)
 
-🌍 You can see an example of my [science task](https://datalore.jetbrains.com/report/static/LUdwBA6k2jwMAMtJwB3Kau/kHcYwVEETH6IYmQMWEgkJC)!
+🌍 You can see an example of my [science task](https://github.com/iiifd2u/TGF)!
 
 🏅 You can also look at my part in project [pose analysis in sports](https://github.com/fitagdinov/Hockey_analysis/tree/feat_check_phases).
 
